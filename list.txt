@@ -1,0 +1,49 @@
+ARRAYS
+    1. Find the largest element in an array. 
+    2. Find the second largest element.
+    3. Reverse an array.
+    4. Remove duplicates from an array.
+    5. Sort an array using Bubble Sort.
+    6. Search an element using Linear Search.
+    7. Search an element using Binary Search.
+    8. Find the missing number from 1 to N.
+    9. Rotate array left by 1 position.
+    10. Count even and odd elements in an array.
+STRINGS
+    11. Check if a string is palindrome.
+    12. Count vowels and consonants.
+    13. Reverse a string.
+    14. Check anagram strings.
+    15. Find the first non-repeating character.
+LINKED LIST
+    16. Insert node at beginning.
+    17. Insert node at end.
+    18. Reverse a linked list.
+    19. Find the middle of a linked list.
+    20. Detect cycle in linked list (Floyd’s algorithm).
+STACK
+    21. Implement stack using array.
+    22. Check balanced parentheses using stack.
+    23. Reverse a stack using recursion.
+QUEUE
+    24. Implement queue using array.
+    25. Implement circular queue.
+SEARCHING / SORTING
+    26. Bubble Sort.
+    27. Selection Sort.
+    28. Insertion Sort.
+    29. Binary Search.
+    30. Merge Sort (logic only).
+RECURSION
+    31. Fibonacci using recursion.
+    32. Factorial using recursion.
+    33. Sum of digits using recursion.
+TREE / BST
+    34. Inorder traversal of binary tree.
+    35. Preorder traversal.
+    36. Postorder traversal.
+    37. Insert into a BST.
+    38. Search a key in BST.
+HASHING
+    39. Count frequency of elements using HashMap.
+    40. Find duplicate elements using HashSet.
